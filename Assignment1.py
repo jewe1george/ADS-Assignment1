@@ -2,7 +2,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
 # Reading the data set "Cars93.csv" using pandas and assigning it to car_models
 car_models = pd.read_csv("Cars93.csv")
 
